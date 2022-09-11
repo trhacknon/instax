@@ -1,5 +1,6 @@
 #!/bin/bash
-# Coded by: github.com/trhacknon
+# Coded by: dhasirar
+# Modded by: trhacknon
 # Instagram: 
 
 trap 'store;exit 1' 2
